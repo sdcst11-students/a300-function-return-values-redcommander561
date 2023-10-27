@@ -8,7 +8,8 @@ Return False if the number is not an integer
 """
 
 def isInteger():
-    return
+  input = float
+  return
 
 if __name__ == "__main__":
   assert isInteger( 9.5 ) == False
